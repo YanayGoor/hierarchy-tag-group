@@ -1,0 +1,23 @@
+{
+  "name": "@yanayg/hierarchy-tag-group",
+  "version": "1.0.0",
+  "description": "Display and edit a hierarchy of tags",
+  "repository": "YanayGoor/hierarchy-tag-group",
+  "license": "MIT",
+  "dependencies": {
+    "antd": "^3.16.6",
+    "rc-tween-one": "^2.4.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.0"
+  },
+  "main": "src/index.js",
+  "keywords": [
+    "hierarchy-tag-group",
+    "tag-group",
+    "hierarchy",
+    "tag",
+    "npm",
+    "package"
+  ]
+}
